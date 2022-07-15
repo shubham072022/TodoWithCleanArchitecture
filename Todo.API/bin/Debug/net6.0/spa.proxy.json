@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "D:\\Shubham_Workplace\\Todo-20220715T052519Z-001\\Todo\\Todo.API",
+"MaxTimeoutInSeconds": "120"
+}
+}

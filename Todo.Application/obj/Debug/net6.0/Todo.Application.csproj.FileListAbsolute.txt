@@ -1,0 +1,15 @@
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\bin\Debug\net6.0\Todo.Application.deps.json
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\bin\Debug\net6.0\Todo.Application.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\bin\Debug\net6.0\Todo.Application.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\bin\Debug\net6.0\Todo.Domain.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\bin\Debug\net6.0\Todo.Domain.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.csproj.AssemblyReference.cache
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.AssemblyInfoInputs.cache
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.AssemblyInfo.cs
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.csproj.CoreCompileInputs.cache
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.csproj.CopyComplete
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\refint\Todo.Application.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\Todo.Application.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Application\obj\Debug\net6.0\ref\Todo.Application.dll

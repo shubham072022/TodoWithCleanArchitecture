@@ -1,0 +1,17 @@
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Infrestructure.deps.json
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Infrestructure.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Infrestructure.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Application.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Domain.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Application.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\bin\Debug\net6.0\Todo.Domain.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.csproj.AssemblyReference.cache
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.AssemblyInfoInputs.cache
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.AssemblyInfo.cs
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.csproj.CoreCompileInputs.cache
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.csproj.CopyComplete
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\refint\Todo.Infrestructure.dll
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\Todo.Infrestructure.pdb
+D:\Shubham_Workplace\Todo-20220715T052519Z-001\Todo\Todo.Infrestructure\obj\Debug\net6.0\ref\Todo.Infrestructure.dll
